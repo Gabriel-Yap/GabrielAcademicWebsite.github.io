@@ -32,7 +32,9 @@
           <div class="project-description" style="margin-bottom: 0.5em;">{{ link.description }}</div>
           {% endif %}
           {% if link.title contains 'Add2Cart' %}
-          <a href="https://add2cart-1755956442426.chatand.build" target="_blank" style="display:inline-block;padding:8px 22px;background:#007bff;color:#fff;border-radius:6px;text-decoration:none;font-weight:500;font-size:1em;margin-bottom:0.5em;box-shadow:0 2px 6px rgba(0,0,0,0.07);">Demo</a>
+          <a href="https://add2cart-1755956442426.chatand.build" target="_blank" title="View Demo" style="display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;background:#f5f5f5;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.07);margin-bottom:0.5em;margin-left:4px;text-decoration:none;transition:background 0.2s;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24"><path fill="#007bff" d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42L17.59 5H14V3ZM5 5h5V3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-5h-2v5H5V5Z"/></svg>
+          </a>
           {% endif %}
           {% if link.author %}
           <div class="author">{{ link.authors }}</div>
