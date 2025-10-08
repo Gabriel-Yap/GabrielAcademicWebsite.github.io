@@ -35,7 +35,12 @@
   <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
   <img src="./assets/img/photo_6282947558577474416_x.jpg" alt="KYCS Coding Buddy" style="width: 240px; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
-  <strong style="font-size:1.1em;">KYCS Coding Buddy Program</strong><br>
+  <span style="display: flex; align-items: center; gap: 10px;">
+    <strong style="font-size:1.1em;">KYCS Coding Buddy Program</strong>
+    <a href="https://www.instagram.com/kycsociety/" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
+      <i class="fab fa-instagram" style="font-size:1.25em; color:#E4405F; margin-left:2px;"></i>
+    </a>
+  </span><br>
   <span style="color:#555;">Participant</span><br>
   <span style="color:#555;">Kuala Lumpur, Malaysia | Jun. 2023 – Sep. 2023</span>
       <ul style="margin: 0.3em 0 0.7em 1.2em;">

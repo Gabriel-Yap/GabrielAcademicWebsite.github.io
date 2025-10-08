@@ -54,9 +54,6 @@
     <a href="https://ioimalaysia.org/competition/mcc/2025/" target="_blank" style="margin-left:7px; vertical-align:middle; text-decoration:none;">
       <i class="fas fa-external-link-alt" style="font-size:0.95em;"></i>
     </a>
-    <a href="https://www.instagram.com/kycsociety/" target="_blank" style="margin-left:5px; vertical-align:middle; text-decoration:none; color:#E4405F;">
-      <i class="fab fa-instagram" style="font-size:1.05em;"></i>
-    </a>
   </strong><br>
   <span style="color:#555;">Participant</span><br>
   <span style="color:#555;">Online, Malaysia | Oct. 2022</span>
