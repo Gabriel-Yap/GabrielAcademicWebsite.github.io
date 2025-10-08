@@ -21,4 +21,6 @@ I’m Gabriel Hao Wei Yap, a sophomore Computer Science student at Yonsei Univer
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/extra.md %}
+
+
