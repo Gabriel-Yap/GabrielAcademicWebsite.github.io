@@ -3,7 +3,6 @@ layout: homepage
 ---
 
 
-<div style="margin-top: 80px;"></div>
 ## About Me
 
 Hi there! I’m Gabriel Hao Wei Yap, but most people call me Gabby. I’m a sophomore Computer Science student at Yonsei University who loves exploring how technology can make life smoother and more human. My interests span computer vision, image processing, and human-computer interaction—basically, teaching computers to see and think a little more like us!
