@@ -14,15 +14,21 @@
       </div>
       {% endif %}
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title">{{ link.title }}</div>
-        <div class="author">{{ link.authors }}</div>
-        <div class="periodical"><em>{{ link.conference }}</em></div>
-        {% if link.notes %}
-        <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-        {% endif %}
-        {% if link.others %}
-        {{ link.others }}
-        {% endif %}
+  <div class="title">{{ link.title }}</div>
+  <div class="author">{{ link.authors }}</div>
+  <div class="periodical"><em>{{ link.conference }}</em></div>
+  {% if link.date %}
+  <div class="project-date" style="color: #888; font-size: 0.95em; margin-bottom: 0.3em;">{{ link.date }}</div>
+  {% endif %}
+  {% if link.description %}
+  <div class="project-description" style="margin-bottom: 0.5em;">{{ link.description }}</div>
+  {% endif %}
+  {% if link.notes %}
+  <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+  {% endif %}
+  {% if link.others %}
+  {{ link.others }}
+  {% endif %}
       </div>
     </div>
   </li>

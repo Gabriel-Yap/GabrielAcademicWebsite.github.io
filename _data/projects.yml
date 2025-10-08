@@ -1,8 +1,7 @@
 main:
 
   - title: Add2Cart Marketplace (Hackathon Project)
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/add2cart page1.png
     description: Contributed to the UX/UI design and frontend development of a student marketplace platform using Figma and React, focusing on intuitive user flows for listings, search, and multilingual accessibility.
     date: Aug 2025
 
