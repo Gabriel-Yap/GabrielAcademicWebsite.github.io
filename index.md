@@ -11,11 +11,6 @@ I’m Gabriel Hao Wei Yap, a sophomore Computer Science student at Yonsei Univer
 - **Computer Vision & Image Processing:** Developing algorithms for compression, segmentation, and content-aware resizing.
 - **Machine Learning & User-Centered Systems:** Building intuitive, accessible interfaces that enhance user experience.
 
-## Education
-
-- **Yonsei University, Seoul, South Korea:** B.S. in Computer Science (Mar. 2024 – Present)
-- **SMK Kuching High School, Sarawak, Malaysia:** Science Stream (Jan. 2017 – Feb. 2022)
-
 ## Awards & Scholarships
 
 - **[Computer Science Merit-based Scholarship for International Students]** Yonsei University, Spring 2025
