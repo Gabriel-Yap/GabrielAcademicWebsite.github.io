@@ -5,7 +5,7 @@
 {% for link in site.data.projects.main %}
   <li>
     <div class="pub-row">
-      <div style="display: flex; align-items: stretch; gap: 24px;">
+  <div style="display: flex; align-items: center; gap: 24px;">
         {% if link.image %}
         <div style="flex: 0 0 260px; display: flex; align-items: center; justify-content: center;">
           <img src="{{ link.image }}" alt="Project image" style="max-width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
