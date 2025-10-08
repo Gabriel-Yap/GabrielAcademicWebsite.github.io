@@ -5,6 +5,14 @@ main:
     description: Contributed to the UX/UI design and frontend development of a student marketplace platform using Figma and React, focusing on intuitive user flows for listings, search, and multilingual accessibility.
     date: Aug 2025
 
+
+  - title: Image Segmentation Project
+    description: Developed a Python program that transforms an image into a graph and applies a modified Kruskal’s algorithm to segment images by clustering similar pixels.
+    image: ./assets/img/slay.gif
+  - title: Quadtree Image Compression Project
+    description: Engineered a Python-based Quadtree structure and recursive algorithm for lossy image compression by merging similar-colored regions using customizable thresholds.
+    image: ./assets/img/Quadtree ori.png
+
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
