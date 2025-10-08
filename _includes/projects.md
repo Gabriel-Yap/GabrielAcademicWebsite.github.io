@@ -8,7 +8,7 @@
   <div style="display: flex; align-items: center; gap: 24px;">
         {% if link.image %}
         <div style="flex: 0 0 260px; display: flex; align-items: center; justify-content: center;">
-          <img src="{{ link.image }}" alt="Project image" style="max-width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
+          <img src="{{ link.image }}" alt="Project image" class="project-img-interactive" style="max-width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain; transition: transform 0.22s cubic-bezier(.4,2,.6,1), box-shadow 0.22s;">
         </div>
         {% endif %}
         <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center;">
