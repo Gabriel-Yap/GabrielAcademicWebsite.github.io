@@ -21,7 +21,7 @@
     </div>
   </div>
   <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
-    <img src="./assets/img/photo_6282947558577474416_x.jpg" alt="KYCS Coding Buddy" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+  <img src="./assets/img/mcc.png" alt="KYCS Coding Buddy" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
       <strong style="font-size:1.1em;">KYCS Coding Buddy Program</strong><br>
       <span style="color:#555;">Participant — Kuala Lumpur, Malaysia | Jun. 2023 – Sep. 2023</span>
@@ -37,4 +37,4 @@
       <li><b>Leadership:</b> Led a junior scout troop, coordinating weekly activities with school administration, and gained international experience by serving on the committee for a large-scale international camp.</li>
     </ul>
   </div>
-</div>
+    </div>
