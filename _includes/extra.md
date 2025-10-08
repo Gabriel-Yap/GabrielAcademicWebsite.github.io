@@ -1,6 +1,6 @@
 <h2 id="extracurricular" style="margin-top: 40px; margin-bottom: 10px;">Extracurricular Activities</h2>
 <div class="extracurricular-section" style="margin-bottom: 2em;">
-  <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
+  <div style="margin-bottom: 48px; display: flex; align-items: flex-start; gap: 18px;">
   <img src="./assets/img/photo_6282947558577474448_y.jpg" alt="FSU Deputy Vice Commissioner" style="width: 240px; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
       <strong style="font-size:1.1em;">Yonsei Foreign Student Union (FSU)</strong><br>
