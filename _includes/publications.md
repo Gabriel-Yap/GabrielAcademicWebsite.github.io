@@ -11,7 +11,7 @@
     </div>
   </div>
   <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
-  <img src="./assets/img/photo_6282947558577474448_y.jpg" alt="YISS" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
+    <img src="./assets/img/photo_6282947558577474450_y.jpg" alt="YISS" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
       <strong style="font-size:1.1em;">Yonsei International Summer School (YISS)</strong><br>
       <span style="color:#555;">Teaching Assistant — Seoul, South Korea | Jun. 2025 – Aug. 2025</span>
@@ -23,7 +23,7 @@
     </div>
   </div>
   <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
-  <img src="./assets/img/photo_6282947558577474447_y.jpg" alt="Base Initiative" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
+  <img src="./assets/img/photo_6282947558577474413_x.jpg" alt="Base Initiative" style="width: 140px; height: 140px; object-fit: cover; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
       <strong style="font-size:1.1em;">Base Initiative</strong><br>
       <span style="color:#555;">Volunteer Mentor — Online, Malaysia | Jun. 2023 – Aug. 2023</span>
@@ -33,7 +33,7 @@
     </div>
   </div>
   <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
-  <img src="./assets/img/photo_6282947558577474416_x.jpg" alt="MCC" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
+  <img src="./assets/img/photo_6282947558577474416_x.jpg" alt="MCC" style="width: 140px; height: 140px; object-fit: cover; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
       <strong style="font-size:1.1em;">Malaysian Computing Challenge (MCC)</strong><br>
       <span style="color:#555;">Participant — Online, Malaysia | Oct. 2022</span>
