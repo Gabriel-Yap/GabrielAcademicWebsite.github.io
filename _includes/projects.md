@@ -3,9 +3,9 @@
 <div class="projects">
 <ul class="bibliography" style="list-style: none; padding-left: 0;">
 {% for link in site.data.projects.main %}
-  <li style="margin-bottom: 2.4em;">
+  <li style="margin-bottom: 3.6em;">
     <div class="pub-row">
-  <div style="display: flex; align-items: center; gap: 28px;">
+  <div style="display: flex; align-items: center; gap: 44px;">
         {% if link.image %}
         <div style="flex: 0 0 260px; display: flex; align-items: center; justify-content: center;">
           <img src="{{ link.image }}" alt="Project image" style="max-width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
