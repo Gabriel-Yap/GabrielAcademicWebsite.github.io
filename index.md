@@ -16,12 +16,11 @@ I’m Gabriel Hao Wei Yap, a sophomore Computer Science student at Yonsei Univer
 - **Yonsei University, Seoul, South Korea:** B.S. in Computer Science (Mar. 2024 – Present)
 - **SMK Kuching High School, Sarawak, Malaysia:** Science Stream (Jan. 2017 – Feb. 2022)
 
-## News
+## Awards & Scholarships
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Computer Science Merit-based Scholarship for International Students]** Yonsei University, Spring 2025
+- **[Global Basic Education Division (GBED) Merit-based Scholarship]** Yonsei University, Spring 2025
+- **[Malaysian Federal Scholarship (JPA-JKPJ)]** National STEM scholarship for overseas study
 
 {% include_relative _includes/publications.md %}
 
