@@ -8,8 +8,14 @@ I’m Gabriel Hao Wei Yap, a sophomore Computer Science student at Yonsei Univer
 
 ## Research Interests
 
-- **Computer Vision & Image Processing:** Developing algorithms for compression, segmentation, and content-aware resizing.
-- **Machine Learning & User-Centered Systems:** Building intuitive, accessible interfaces that enhance user experience.
+- <div style="display: flex; align-items: center; gap: 18px; margin-bottom: 0.5em;">
+		<img src="./assets/img/computer vision.png" alt="Computer Vision" style="width: 70px; height: 70px; object-fit: contain; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+		<span><b>Computer Vision & Image Processing:</b> Developing algorithms for compression, segmentation, and content-aware resizing.</span>
+	</div>
+- <div style="display: flex; align-items: center; gap: 18px; margin-bottom: 0.5em;">
+		<img src="./assets/img/figma music screen.png" alt="HCI & User-Centered Systems" style="width: 70px; height: 70px; object-fit: contain; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+		<span><b>Human-Computer Interaction (HCI) & User-Centered Systems:</b> Building intuitive, accessible interfaces that enhance user experience.</span>
+	</div>
 
 ## Awards & Scholarships
 
