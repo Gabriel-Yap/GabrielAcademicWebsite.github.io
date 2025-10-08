@@ -22,7 +22,7 @@ I’m Gabriel Hao Wei Yap, a sophomore Computer Science student at Yonsei Univer
 - **[Global Basic Education Division (GBED) Merit-based Scholarship]** Yonsei University, Spring 2025
 - **[Malaysian Federal Scholarship (JPA-JKPJ)]** National STEM scholarship for overseas study
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/projects.md %}
 
