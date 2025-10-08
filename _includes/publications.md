@@ -33,7 +33,7 @@
     </div>
   </div>
   <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
-  <img src="./assets/img/photo_6282947558577474416_x.jpg" alt="MCC" style="width: 140px; height: 140px; object-fit: cover; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+    <img src="./assets/img/mcc.png" alt="MCC" style="width: 140px; height: 140px; object-fit: cover; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
       <strong style="font-size:1.1em;">Malaysian Computing Challenge (MCC)</strong><br>
       <span style="color:#555;">Participant — Online, Malaysia | Oct. 2022</span>
