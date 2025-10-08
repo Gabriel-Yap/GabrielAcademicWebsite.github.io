@@ -12,7 +12,19 @@
         </div>
         {% endif %}
         <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center;">
-          <div class="title" style="font-weight: bold; font-size: 1.15em; margin-bottom: 0.2em;">{{ link.title }}</div>
+          <div class="title" style="font-weight: bold; font-size: 1.15em; margin-bottom: 0.2em; display: flex; align-items: center; gap: 10px;">
+            <span>{{ link.title }}</span>
+            {% if link.title contains 'Image Segmentation Project' %}
+              <a href="https://github.com/Gabriel-Yap/imagesegmentation" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width: 28px; height: 28px; margin-left: 2px; filter: grayscale(0.2);">
+              </a>
+            {% endif %}
+            {% if link.title contains 'Quadtree Image Compression Project' %}
+              <a href="https://github.com/Gabriel-Yap/quadtreeimagecompression" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width: 28px; height: 28px; margin-left: 2px; filter: grayscale(0.2);">
+              </a>
+            {% endif %}
+          </div>
           {% if link.date %}
           <div class="project-date" style="color: #888; font-size: 0.95em; margin-bottom: 0.3em;">{{ link.date }}</div>
           {% endif %}

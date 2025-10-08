@@ -13,5 +13,5 @@ main:
     
   - title: Quadtree Image Compression Project
     description: Engineered a Python-based Quadtree structure and recursive algorithm for lossy image compression by merging similar-colored regions using customizable thresholds.
-    image: ./assets/img/Quadtree ori.png
+    image: ./assets/img/rabbit.png
     date: May 2025
