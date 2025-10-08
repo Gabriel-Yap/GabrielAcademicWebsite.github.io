@@ -30,11 +30,3 @@
       </ul>
     </div>
   </div>
-  <div style="margin-bottom: 1.2em;">
-    <strong style="font-size:1.1em;">Malaysia Scout Association</strong><br>
-    <span style="color:#555;">Junior Troop Leader — Kuching, Malaysia | Feb. 2022 – Dec. 2022</span>
-    <ul style="margin: 0.3em 0 0.7em 1.2em;">
-      <li><b>Leadership:</b> Led a junior scout troop, coordinating weekly activities with school administration, and gained international experience by serving on the committee for a large-scale international camp.</li>
-    </ul>
-  </div>
-    </div>
