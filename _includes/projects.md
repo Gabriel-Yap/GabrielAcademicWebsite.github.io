@@ -23,6 +23,9 @@
           {% if link.description %}
           <div class="project-description" style="margin-bottom: 0.5em;">{{ link.description }}</div>
           {% endif %}
+          {% if link.title contains 'Add2Cart' %}
+          <a href="https://add2cart-1755956442426.chatand.build" target="_blank" style="display:inline-block;padding:8px 22px;background:#007bff;color:#fff;border-radius:6px;text-decoration:none;font-weight:500;font-size:1em;margin-bottom:0.5em;box-shadow:0 2px 6px rgba(0,0,0,0.07);">Demo</a>
+          {% endif %}
           {% if link.author %}
           <div class="author">{{ link.authors }}</div>
           {% endif %}
