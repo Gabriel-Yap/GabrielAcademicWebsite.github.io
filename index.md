@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I’m Gabriel Hao Wei Yap, a sophomore Computer Science student at Yonsei University passionate about computer vision, image processing, and human-computer interaction. I enjoy solving technical challenges and developing systems that make technology more intuitive and human-centered. Beyond coding, I’m active in cross-cultural student communities, where I’ve grown as a communicator and leader.
+Hi there! I’m Gabriel Hao Wei Yap, but most people call me Gabby. I’m a sophomore Computer Science student at Yonsei University who loves exploring how technology can make life smoother and more human. My interests span computer vision, image processing, and human-computer interaction—basically, teaching computers to see and think a little more like us!
+
+When I’m not coding or debugging, you’ll probably find me organizing events with international students, chatting across cultures, or brainstorming creative ideas over coffee. I enjoy blending technical problem-solving with human connection, and I’m always up for learning something new.
 
 ## Research Interests
 
