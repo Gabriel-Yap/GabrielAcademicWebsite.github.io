@@ -1,51 +1,33 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-
-<div class="publications">
-<ol class="bibliography">
-
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% endif %}
+<h2 id="experience" style="margin: 2px 0px 15px;">Experience</h2>
+<div class="experience-section" style="margin-bottom: 2em;">
+  <div style="margin-bottom: 1.2em;">
+    <strong style="font-size:1.1em;">HackPPMK25 Innovation Challenge</strong><br>
+    <span style="color:#555;">Participant — Seoul, South Korea | Aug. 2025</span>
+    <ul style="margin: 0.3em 0 0.7em 1.2em;">
+      <li>Collaborated with a team of Malaysian students to design and propose technology-driven solutions for real-world problems during a two-week hackathon.</li>
+    </ul>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
+  <div style="margin-bottom: 1.2em;">
+    <strong style="font-size:1.1em;">Yonsei International Summer School (YISS)</strong><br>
+    <span style="color:#555;">Teaching Assistant — Seoul, South Korea | Jun. 2025 – Aug. 2025</span>
+    <ul style="margin: 0.3em 0 0.7em 1.2em;">
+      <li>Assisted professors with course delivery, grading, and discussions.</li>
+      <li>Provided mentorship to help international students adapt to Yonsei University.</li>
+      <li>Worked closely with teaching assistants from diverse backgrounds to foster cross-cultural communication.</li>
+    </ul>
   </div>
-</div>
-</li>
-<br>
-
-{% endfor %}
-
-</ol>
+  <div style="margin-bottom: 1.2em;">
+    <strong style="font-size:1.1em;">Base Initiative</strong><br>
+    <span style="color:#555;">Volunteer Mentor — Online, Malaysia | Jun. 2023 – Aug. 2023</span>
+    <ul style="margin: 0.3em 0 0.7em 1.2em;">
+      <li>Guided Malaysian high school graduates through scholarship applications, essay writing, and interview preparation.</li>
+    </ul>
+  </div>
+  <div style="margin-bottom: 1.2em;">
+    <strong style="font-size:1.1em;">Malaysian Computing Challenge (MCC)</strong><br>
+    <span style="color:#555;">Participant — Online, Malaysia | Oct. 2022</span>
+    <ul style="margin: 0.3em 0 0.7em 1.2em;">
+      <li>Competed in an algorithmic problem-solving challenge to strengthen computational and logical reasoning skills.</li>
+    </ul>
+  </div>
 </div>
