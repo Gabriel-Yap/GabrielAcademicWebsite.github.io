@@ -1,10 +1,7 @@
 <h2 id="experience" style="margin: 2px 0px 15px;">Experience</h2>
 <div class="experience-section" style="margin-bottom: 2em;">
   <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
-    <div style="display: flex; flex-direction: column; gap: 10px;">
-      <img src="./assets/img/add2cart page1.png" alt="HackPPMK25-1" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
-      <img src="./assets/img/add2cart page2.png" alt="HackPPMK25-2" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
-    </div>
+    <img src="./assets/img/add2cart page2.png" alt="HackPPMK25" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
       <strong style="font-size:1.1em;">HackPPMK25 Innovation Challenge</strong><br>
       <span style="color:#555;">Participant — Seoul, South Korea | Aug. 2025</span>
@@ -14,11 +11,7 @@
     </div>
   </div>
   <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
-    <div style="display: flex; flex-direction: column; gap: 10px;">
-      <img src="./assets/img/photo_6282947558577474447_y.jpg" alt="YISS-1" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
-      <img src="./assets/img/photo_6282947558577474448_y.jpg" alt="YISS-2" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
-      <img src="./assets/img/photo_6282947558577474450_y.jpg" alt="YISS-3" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
-    </div>
+    <img src="./assets/img/photo_6282947558577474450_y.jpg" alt="YISS" style="width: 180px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
       <strong style="font-size:1.1em;">Yonsei International Summer School (YISS)</strong><br>
       <span style="color:#555;">Teaching Assistant — Seoul, South Korea | Jun. 2025 – Aug. 2025</span>
