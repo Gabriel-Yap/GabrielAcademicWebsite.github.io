@@ -2,12 +2,16 @@
 layout: homepage
 ---
 
+
+<div style="margin-top: 48px;"></div>
 ## About Me
 
 Hi there! I’m Gabriel Hao Wei Yap, but most people call me Gabby. I’m a sophomore Computer Science student at Yonsei University who loves exploring how technology can make life smoother and more human. My interests span computer vision, image processing, and human-computer interaction—basically, teaching computers to see and think a little more like us!
 
 When I’m not coding or debugging, you’ll probably find me organizing events with international students, chatting across cultures, or brainstorming creative ideas over coffee. I enjoy blending technical problem-solving with human connection, and I’m always up for learning something new.
 
+
+<div style="margin-top: 48px;"></div>
 ## Research Interests
 
 	
@@ -27,16 +31,24 @@ When I’m not coding or debugging, you’ll probably find me organizing events 
 		</div>
 </div>
 
+
+<div style="margin-top: 48px;"></div>
 ## Awards & Scholarships
 
 - **Computer Science Merit-based Scholarship for International Students:** Yonsei University, Spring 2025
 - **Global Basic Education Division (GBED) Merit-based Scholarship:** Yonsei University, Spring 2025
 - **Malaysian Federal Scholarship (JPA-JKPJ):** National STEM scholarship for overseas study
 
+
+<div style="margin-top: 48px;"></div>
 {% include_relative _includes/publications.md %}
 
+
+<div style="margin-top: 48px;"></div>
 {% include_relative _includes/projects.md %}
 
+
+<div style="margin-top: 48px;"></div>
 {% include_relative _includes/extra.md %}
 
 

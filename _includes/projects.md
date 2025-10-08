@@ -3,7 +3,7 @@
 <div class="projects">
 <ol class="bibliography">
 {% for link in site.data.projects.main %}
-  <li style="margin-bottom: 48px;">
+  <li>
     <div class="pub-row">
       <div style="display: flex; align-items: stretch; gap: 24px;">
         {% if link.image %}
