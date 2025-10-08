@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m Gabriel Hao Wei Yap, a sophomore Computer Science student at Yonsei University passionate about computer vision, image processing, and human-computer interaction. I enjoy solving technical challenges and developing systems that make technology more intuitive and human-centered. Beyond coding, I’m active in cross-cultural student communities, where I’ve grown as a communicator and leader.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision & Image Processing:** Developing algorithms for compression, segmentation, and content-aware resizing.
+- **Machine Learning & User-Centered Systems:** Building intuitive, accessible interfaces that enhance user experience.
 
 ## News
 
