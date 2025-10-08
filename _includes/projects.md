@@ -1,7 +1,7 @@
 <h2 id="projects" style="margin-top: 40px; margin-bottom: 10px;">Projects</h2>
 
 <div class="projects">
-<ol class="bibliography">
+<ul class="bibliography" style="list-style: none; padding-left: 0;">
 {% for link in site.data.projects.main %}
   <li>
     <div class="pub-row">
@@ -54,5 +54,5 @@
   </li>
   <br>
 {% endfor %}
-</ol>
+</ul>
 </div>
