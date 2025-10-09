@@ -12,7 +12,7 @@
         </div>
         {% endif %}
         <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center;">
-          <div class="title" style="font-weight: bold; font-size: 1.15em; margin-bottom: 0.2em; display: flex; align-items: center; gap: 3px;">
+          <div class="title" style="font-weight: bold; font-size: 1.15em; margin-bottom: 0.2em; display: flex; align-items: center; gap: 6px;">
             <span>{{ link.title }}</span>
             {% if link.title contains 'Add2Cart' %}
               <a class="external-link" href="https://add2cart-1755956442426.chatand.build" target="_blank" title="View Demo">
