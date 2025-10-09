@@ -1,6 +1,6 @@
 <h2 id="experience" style="margin: 2px 0px 15px;">Experience</h2>
 <div class="experience-section" style="margin-bottom: 2em;">
-  <div style="margin-bottom: 3.5em; display: flex; align-items: flex-start; gap: 40px;">
+  <div style="margin-bottom: 5em; display: flex; align-items: flex-start; gap: 40px;">
     <img src="./assets/img/add2cart page2.png" alt="HackPPMK25" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
   <strong style="font-size:1.1em;">HackPPMK25 Innovation Challenge
@@ -15,7 +15,7 @@
       </ul>
     </div>
   </div>
-  <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
+  <div style="margin-bottom: 5em; display: flex; align-items: flex-start; gap: 18px;">
     <img src="./assets/img/photo_6282947558577474450_y.jpg" alt="YISS" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
   <strong style="font-size:1.1em;">Yonsei International Summer School (YISS)
@@ -32,7 +32,7 @@
       </ul>
     </div>
   </div>
-  <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
+  <div style="margin-bottom: 5em; display: flex; align-items: flex-start; gap: 18px;">
   <img src="./assets/img/photo_6282947558577474413_x.jpg" alt="Base Initiative" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
   <strong style="font-size:1.1em;">Base Initiative
@@ -47,7 +47,7 @@
       </ul>
     </div>
   </div>
-  <div style="margin-bottom: 1.2em; display: flex; align-items: flex-start; gap: 18px;">
+  <div style="margin-bottom: 5em; display: flex; align-items: flex-start; gap: 18px;">
   <img src="./assets/img/mcc.png" alt="MCC" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
   <strong style="font-size:1.1em;">Malaysian Computing Challenge (MCC)
