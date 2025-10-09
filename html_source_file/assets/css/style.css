@@ -78,7 +78,16 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img { border-radius: 18px; width: 340px; height: 340px; object-fit: cover; padding: 0; border: 7px solid #e0e0e0; box-shadow: 0 6px 32px rgba(0,0,0,0.16); background: #fff; }
+.image.avatar img {
+  border-radius: 12px;
+  width: 420px;
+  height: 560px;
+  object-fit: contain;
+  padding: 0;
+  border: 8px solid #e0e0e0;
+  box-shadow: 0 8px 36px rgba(0,0,0,0.18);
+  background: #fff;
+}
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
 
