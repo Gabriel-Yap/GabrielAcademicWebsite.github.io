@@ -18,7 +18,7 @@ When I’m not coding or debugging, you’ll probably find me organizing events 
 		<img src="./assets/img/computer vision.png" alt="Computer Vision" style="width: 120px; height: 120px; object-fit: contain; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
 		<div style="display: flex; flex-direction: column; gap: 0.3em;">
 			<span><b>Computer Vision & Image Processing:</b> Developing algorithms for compression, segmentation, and content-aware resizing.</span>
-			<a href="https://opencv.org/blog/computer-vision-and-image-processing/" target="_blank" style="display:inline-block; padding:8px 22px; background:linear-gradient(90deg,#0057b8,#00c6fb); color:#fff; border-radius:8px; text-decoration:none; font-weight:500; font-size:1em; margin-top:0.2em; box-shadow:0 2px 8px rgba(0,0,0,0.10); transition:background 0.2s;">Learn More</a>
+			<a class="learn-more-btn" href="https://opencv.org/blog/computer-vision-and-image-processing/" target="_blank" style="display:inline-block; padding:8px 22px; background:linear-gradient(90deg,#0057b8,#00c6fb); color:#fff; border-radius:8px; text-decoration:none; font-weight:500; font-size:1em; margin-top:0.2em; box-shadow:0 2px 8px rgba(0,0,0,0.10); transition:background 0.2s;">Learn More</a>
 		</div>
 </div>
 
@@ -26,7 +26,7 @@ When I’m not coding or debugging, you’ll probably find me organizing events 
 		<img src="./assets/img/figma music screen.png" alt="HCI & User-Centered Systems" style="width: 120px; height: 120px; object-fit: contain; border-radius: 14px; box-shadow: 0, 2px 8px rgba(0,0,0,0.10);">
 		<div style="display: flex; flex-direction: column; gap: 0.3em;">
 			<span><b>Human-Computer Interaction (HCI) & User-Centered Systems:</b> Building intuitive, accessible interfaces that enhance user experience.</span>
-			<a href="https://www.interaction-design.org/literature/topics/user-centered-design?srsltid=AfmBOooKN4tkmSMIbY45_ZSYQYwzV83a_NBJ_d4TMFHDbwo8P7cLpMsw" target="_blank" style="display:inline-block; padding:8px 22px; background:linear-gradient(90deg,#ff512f,#dd2476); color:#fff; border-radius:8px; text-decoration:none; font-weight:500; font-size:1em; margin-top:0.2em; box-shadow:0 2px 8px rgba(0,0,0,0.10); transition:background 0.2s;">Learn More</a>
+			<a class="learn-more-btn" href="https://www.interaction-design.org/literature/topics/user-centered-design?srsltid=AfmBOooKN4tkmSMIbY45_ZSYQYwzV83a_NBJ_d4TMFHDbwo8P7cLpMsw" target="_blank" style="display:inline-block; padding:8px 22px; background:linear-gradient(90deg,#ff512f,#dd2476); color:#fff; border-radius:8px; text-decoration:none; font-weight:500; font-size:1em; margin-top:0.2em; box-shadow:0 2px 8px rgba(0,0,0,0.10); transition:background 0.2s;">Learn More</a>
 		</div>
 </div>
 
