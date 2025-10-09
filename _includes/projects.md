@@ -12,16 +12,16 @@
         </div>
         {% endif %}
         <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: center;">
-          <div class="title" style="font-weight: bold; font-size: 1.15em; margin-bottom: 0.2em; display: flex; align-items: center; gap: 10px;">
+          <div class="title" style="font-weight: bold; font-size: 1.15em; margin-bottom: 0.2em; display: flex; align-items: center; gap: 3px;">
             <span>{{ link.title }}</span>
             {% if link.title contains 'Add2Cart' %}
               <a class="external-link" href="https://add2cart-1755956442426.chatand.build" target="_blank" title="View Demo">
-                <svg xmlns="http://www.w3.org/2000/svg" class="project-icon" viewBox="0 0 24 24"><path fill="#007bff" d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42L17.59 5H14V3ZM5 5h5V3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-5h-2v5H5V5Z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24"><path fill="#007bff" d="M14 3h7v7h-2V6.41l-9.29 9.3-1.42-1.42L17.59 5H14V3ZM5 5h5V3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-5h-2v5H5V5Z"/></svg>
               </a>
             {% endif %}
             {% if link.title contains 'Image Segmentation Project' %}
               <a class="external-link" href="https://github.com/Gabriel-Yap/imagesegmentation" target="_blank">
-                <img class="project-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="margin-left: 2px; filter: grayscale(0.2);">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width: 28px; height: 28px; margin-left: 2px; filter: grayscale(0.2);">
               </a>
             {% endif %}
             {% if link.title contains 'Quadtree Image Compression Project' %}
