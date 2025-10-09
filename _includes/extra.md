@@ -5,7 +5,7 @@
     <div>
       <span style="display: flex; align-items: center; gap: 10px;">
         <strong style="font-size:1.1em;">Yonsei Foreign Student Union (FSU)</strong>
-        <a href="https://www.linkedin.com/company/foreign-student-union-fsu/?originalSubdomain=kr" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
+  <a class="external-link" href="https://www.linkedin.com/company/foreign-student-union-fsu/?originalSubdomain=kr" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 26px; height: 26px; margin-left: 2px; filter: grayscale(0.2);">
         </a>
       </span><br>
@@ -21,7 +21,7 @@
     <div>
       <span style="display: flex; align-items: center; gap: 10px;">
         <strong style="font-size:1.1em;">Yonsei Foreign Student Union (FSU)</strong>
-        <a href="https://www.linkedin.com/company/foreign-student-union-fsu/?originalSubdomain=kr" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
+  <a class="external-link" href="https://www.linkedin.com/company/foreign-student-union-fsu/?originalSubdomain=kr" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 26px; height: 26px; margin-left: 2px; filter: grayscale(0.2);">
         </a>
       </span><br>
@@ -37,7 +37,7 @@
     <div>
   <span style="display: flex; align-items: center; gap: 10px;">
     <strong style="font-size:1.1em;">KYCS Coding Buddy Program</strong>
-    <a href="https://www.instagram.com/kycsociety/" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
+  <a class="external-link" href="https://www.instagram.com/kycsociety/" target="_blank" style="display:inline-flex;align-items:center;text-decoration:none;">
       <i class="fab fa-instagram" style="font-size:1.25em; color:#E4405F; margin-left:2px;"></i>
     </a>
   </span><br>
