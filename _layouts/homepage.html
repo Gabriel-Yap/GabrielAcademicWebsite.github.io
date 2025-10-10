@@ -50,10 +50,8 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        {% assign affil_lines = site.affiliation | split: '\n' %}
         <div style="line-height:1.3; margin-bottom:2px;">
-          <autocolor>{{ affil_lines[0] }}</autocolor><br>
-          <autocolor>{{ affil_lines[1] }}</autocolor>
+          <autocolor>{{ site.affiliation | safe }}</autocolor>
         </div>
         {% endif %}
         {% if site.email %}
