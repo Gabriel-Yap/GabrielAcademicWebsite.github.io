@@ -1,3 +1,12 @@
+/* Interactive image hover effects */
+.interactive-img {
+  transition: transform 0.25s cubic-bezier(.4,2,.6,1), box-shadow 0.25s cubic-bezier(.4,2,.6,1);
+}
+.interactive-img:hover {
+  transform: scale(1.08);
+  box-shadow: 0 8px 32px 0 rgba(0,123,255,0.18), 0 1.5px 8px 0 rgba(0,0,0,0.10);
+  z-index: 2;
+}
 /* Learn More button hover effect */
 .learn-more-btn {
   transition: background 0.2s, color 0.2s, transform 0.2s, box-shadow 0.2s;

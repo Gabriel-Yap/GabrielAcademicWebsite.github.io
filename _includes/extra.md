@@ -1,7 +1,7 @@
 <h2 id="extracurricular" style="margin-top: 40px; margin-bottom: 10px;">Extracurricular Activities</h2>
 <div class="extracurricular-section" style="margin-bottom: 2em;">
   <div style="margin-bottom: 4em; display: flex; align-items: flex-start; gap: 40px;">
-  <img src="./assets/img/photo_6282947558577474448_y.jpg" alt="FSU Deputy Vice Commissioner" style="width: 240px; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+  <img class="interactive-img" src="./assets/img/photo_6282947558577474448_y.jpg" alt="FSU Deputy Vice Commissioner" style="width: 240px; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
       <span style="display: flex; align-items: center; gap: 10px;">
         <strong style="font-size:1.1em;">Yonsei Foreign Student Union (FSU)</strong>
@@ -17,7 +17,7 @@
     </div>
   </div>
   <div style="margin-bottom: 4em; display: flex; align-items: flex-start; gap: 18px;">
-  <img src="./assets/img/photo_6282947558577474447_y.jpg" alt="FSU Operations Team" style="width: 240px; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+  <img class="interactive-img" src="./assets/img/photo_6282947558577474447_y.jpg" alt="FSU Operations Team" style="width: 240px; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
       <span style="display: flex; align-items: center; gap: 10px;">
         <strong style="font-size:1.1em;">Yonsei Foreign Student Union (FSU)</strong>
@@ -33,7 +33,7 @@
     </div>
   </div>
   <div style="margin-bottom: 4em; display: flex; align-items: flex-start; gap: 18px;">
-  <img src="./assets/img/photo_6282947558577474416_x.jpg" alt="KYCS Coding Buddy" style="width: 240px; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
+  <img class="interactive-img" src="./assets/img/photo_6282947558577474416_x.jpg" alt="KYCS Coding Buddy" style="width: 240px; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.07);">
     <div>
   <span style="display: flex; align-items: center; gap: 10px;">
     <strong style="font-size:1.1em;">KYCS Coding Buddy Program</strong>

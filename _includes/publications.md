@@ -1,7 +1,7 @@
 <h2 id="experience" style="margin: 2px 0px 15px;">Experience</h2>
 <div class="experience-section" style="margin-bottom: 2em;">
   <div style="margin-bottom: 4em; display: flex; align-items: flex-start; gap: 40px;">
-    <img src="./assets/img/add2cart page2.png" alt="HackPPMK25" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
+  <img class="interactive-img" src="./assets/img/add2cart page2.png" alt="HackPPMK25" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
   <strong style="font-size:1.1em;">HackPPMK25 Innovation Challenge
   <a class="external-link" href="https://hackppmk25.devpost.com/" target="_blank" style="margin-left:7px; vertical-align:middle; text-decoration:none;">
@@ -16,7 +16,7 @@
     </div>
   </div>
   <div style="margin-bottom: 4em; display: flex; align-items: flex-start; gap: 18px;">
-    <img src="./assets/img/photo_6282947558577474450_y.jpg" alt="YISS" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
+  <img class="interactive-img" src="./assets/img/photo_6282947558577474450_y.jpg" alt="YISS" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
   <strong style="font-size:1.1em;">Yonsei International Summer School (YISS)
   <a class="external-link" href="https://summer.yonsei.ac.kr/summer/index.do" target="_blank" style="margin-left:7px; vertical-align:middle; text-decoration:none;">
@@ -33,7 +33,7 @@
     </div>
   </div>
   <div style="margin-bottom: 4em; display: flex; align-items: flex-start; gap: 18px;">
-  <img src="./assets/img/photo_6282947558577474413_x.jpg" alt="Base Initiative" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
+  <img class="interactive-img" src="./assets/img/photo_6282947558577474413_x.jpg" alt="Base Initiative" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
   <strong style="font-size:1.1em;">Base Initiative
   <a class="external-link" href="https://baseinitiativemy.com/" target="_blank" style="margin-left:7px; vertical-align:middle; text-decoration:none;">
@@ -48,7 +48,7 @@
     </div>
   </div>
   <div style="margin-bottom: 4em; display: flex; align-items: flex-start; gap: 18px;">
-  <img src="./assets/img/mcc.png" alt="MCC" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
+  <img class="interactive-img" src="./assets/img/mcc.png" alt="MCC" style="width: 240px; height: auto; border-radius: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); object-fit: contain;">
     <div>
   <strong style="font-size:1.1em;">Malaysian Computing Challenge (MCC)
   <a class="external-link" href="https://ioimalaysia.org/competition/mcc/2025/" target="_blank" style="margin-left:7px; vertical-align:middle; text-decoration:none;">
