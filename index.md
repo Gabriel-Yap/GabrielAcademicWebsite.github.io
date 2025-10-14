@@ -35,7 +35,7 @@ When I’m not coding or debugging, you’ll probably find me organizing events 
 ## Awards & Scholarships
 
 - **Computer Science Merit-based Scholarship for International Students:** Yonsei University, Spring 2025
-- **Global Basic Education Division (GBED) Merit-based Scholarship:** Yonsei University, Spring 2025
+- **Global Basic Education Division (GBED) Merit-based Scholarship:** Yonsei University, Spring 2024
 - **Malaysian Federal Scholarship (JPA-JKPJ):** National STEM scholarship for overseas study
 
 
